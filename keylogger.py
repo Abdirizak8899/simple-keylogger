@@ -1,3 +1,5 @@
+#copyright of this code Eng.Abdirizak abdullahi hussein 
+
 import pynput
 from pynput import keyboard, mouse
 
